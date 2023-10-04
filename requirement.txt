@@ -1,3 +1,5 @@
-!pip install Flask
-!pip install face_recognition
-!pip install reportlab.pdfgen
+!pip install deepface
+!pip install opencv-python
+!pip install flask 
+!pip install tensorflow
+!pip install 
