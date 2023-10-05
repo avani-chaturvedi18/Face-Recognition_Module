@@ -2,7 +2,7 @@ from mark_attendance import mark_attendance
 from excelevent import extract_data
 # Load the data from Excel
 excel_filename = "your_excel_file.xlsx"
-image_dir = "your_image_directory"
+image_dir = "image_directory"
 data = extract_data(excel_filename, image_dir)
 
 # Initialize the webcam

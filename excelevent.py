@@ -1,6 +1,6 @@
 import cv2
 import dlib
-from deepface import DeepFace
+#from deepface import DeepFace
 import numpy as np
 import pandas as pd
 import os
