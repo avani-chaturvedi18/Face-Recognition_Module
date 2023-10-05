@@ -1,5 +1,5 @@
 import cv2
-import dlib
+#import dlib
 #from deepface import DeepFace
 import numpy as np
 import pandas as pd
